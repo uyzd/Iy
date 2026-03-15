@@ -1,4 +1,4 @@
-# Username Scanner — Console App
+# UYZD Username Scanner — Console App
 
 A colorful terminal console app that scans for available Xbox Live usernames and posts results to Discord.
 
